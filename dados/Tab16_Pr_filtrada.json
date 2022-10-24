@@ -1,0 +1,1108 @@
+{
+    "Municipio":[
+        {
+            "Toledo":{
+                "principais produtos das lavouras temporárias e permanentes":[
+                    {
+                        "Toltal":{
+                            "Área plantada ou destinada à colheita (ha)":"142 142",
+                            "Área colhida (ha)":"141 842",
+                            "Quantidade produzida (t)":"...",
+                            "Rendimento médio (kg/ha)":"...",
+                            "Valor (1 000 R$)":"475 664"}
+                    },
+                    {
+                        "Lavouras Temporárias":{
+                            "Área plantada ou destinada à colheita (ha)":"142 060",
+                            "Área colhida (ha)":"141 760",
+                            "Quantidade produzida (t)":"...",
+                            "Rendimento médio (kg/ha)":"...",
+                            "Valor (1 000 R$)":"473 007"}
+                    },
+                    {
+                            "Lavouras Permanentes":{
+                            "Área plantada ou destinada à colheita (ha)":" 82",
+                            "Área colhida (ha)":" 82",
+                            "Quantidade produzida (t)":"...",
+                            "Rendimento médio (kg/ha)":"...",
+                            "Valor (1 000 R$)":"2 657"}
+                    },
+                    {
+                        "Soja(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":"71 600",
+                            "Área colhida (ha)":"71 600",
+                            "Quantidade produzida (t)":"236 832",
+                            "Rendimento médio (kg/ha)":"3 308",
+                            "Valor (1 000 R$)":"245 014"}
+                    },
+                    {
+                            "Milho(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":"65 400",
+                            "Área colhida (ha)":"65 400",
+                            "Quantidade produzida (t)":"409 800",
+                            "Rendimento médio (kg/ha)":"6 266",
+                            "Valor (1 000 R$)":"214 205"}
+                    }, 
+                    {
+                            "Trigo(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":"4 000",
+                            "Área colhida (ha)":"4 000",
+                            "Quantidade produzida (t)":"15 200",
+                            "Rendimento médio (kg/ha)":"3 800",
+                            "Valor (1 000 R$)":"9 880"}
+                    },                    
+                    {      "Feijão(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":" 600",
+                            "Área colhida (ha)":" 300",
+                            "Quantidade produzida (t)":" 225",
+                            "Rendimento médio (kg/ha)":" 750",
+                            "Valor (1 000 R$)":" 743"}
+                    },
+                    {                    
+                        "Aveia(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":" 200",
+                            "Área colhida (ha)":" 200",
+                            "Quantidade produzida (t)":" 400",
+                            "Rendimento médio (kg/ha)":"2 000",
+                            "Valor (1 000 R$)":" 220"}
+                    },
+                    {                    
+                        "Mandioca":{ 
+                            "Área plantada ou destinada à colheita (ha)":" 200",
+                            "Área colhida (ha)":" 200",
+                            "Quantidade produzida (t)":"5 400",
+                            "Rendimento médio (kg/ha)":"27 000",
+                            "Valor (1 000 R$)":"2 430"}
+                    },
+                    {  
+                        "Cana-de-açúcar":{
+                            "Área plantada ou destinada à colheita (ha)":" 50",
+                            "Área colhida (ha)":" 50",
+                            "Quantidade produzida (t)":"3 000",
+                            "Rendimento médio (kg/ha)":"60 000",
+                            "Valor (1 000 R$)":" 240"}
+                    },
+                    {
+                        
+                        "Uva":{
+                                "Área plantada ou destinada à colheita (ha)":" 40",
+                            "Área colhida (ha)":" 40",
+                            "Quantidade produzida (t)":" 640",
+                            "Rendimento médio (kg/ha)":"16 000",
+                            "Valor (1 000 R$)":"1 696"}
+                    },
+                    {
+                        "Banana":{ 
+                            "Área plantada ou destinada à colheita (ha)":" 20",
+                            "Área colhida (ha)":" 20",
+                            "Quantidade produzida (t)":" 390",
+                            "Rendimento médio (kg/ha)":"19 500",
+                            "Valor (1 000 R$)":" 203"}
+                    },
+                    {  
+                        "Maçã":{    
+                            "Área plantada ou destinada à colheita (ha)":" 11",
+                            "Área colhida (ha)":" 11",
+                            "Quantidade produzida (t)":" 171",
+                            "Rendimento médio (kg/ha)":"15 545",
+                            "Valor (1 000 R$)":" 428"}
+                    },
+                    {      
+                        "Pêssego ":{        
+                            "Área plantada ou destinada à colheita (ha)":" 11",
+                            "Área colhida (ha)":" 11",
+                            "Quantidade produzida (t)":" 110",
+                            "Rendimento médio (kg/ha)":"10 000",
+                            "Valor (1 000 R$)":" 330"}
+                    },
+                    {                    
+                        "Batata-doce ":{      
+                            "Área plantada ou destinada à colheita (ha)":" 10",
+                            "Área colhida (ha)":" 10",
+                            "Quantidade produzida (t)":" 202",
+                            "Rendimento médio (kg/ha)":"20 200",
+                            "Valor (1 000 R$)":" 275"}
+                    }
+                ]            
+            }
+        },
+        {
+                
+            "Cascavel":{          
+                "principais produtos das lavouras temporárias e permanentes":[
+                    {
+                        "Total":{
+                        "Área plantada ou destinada à colheita (ha)":"203 467",
+                        "Área colhida (ha)":"203 467",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"622 672"}
+                    },
+                    {
+                        
+                        "Lavouras Temporárias":{
+                            "Área plantada ou destinada à colheita (ha)":"203 040",
+                            "Área colhida (ha)":"203 040",
+                            "Quantidade produzida (t)":"...",
+                            "Rendimento médio (kg/ha)":"...",
+                            "Valor (1 000 R$)":"619 492"}
+                    },
+                    {
+                        "Lavouras Permanentes":{
+                            "Área plantada ou destinada à colheita (ha)":" 427",
+                            "Área colhida (ha)":" 427",
+                            "Quantidade produzida (t)":"...",
+                            "Rendimento médio (kg/ha)":"...",
+                            "Valor (1 000 R$)":"3 180"}
+                    },
+                    {
+                        "Soja(em grão) ":{
+                            "Área plantada ou destinada à colheita (ha)":"109 400",
+                            "Área colhida (ha)":"109 400",
+                            "Quantidade produzida (t)":"390 850",
+                            "Rendimento médio (kg/ha)":"3 573",
+                            "Valor (1 000 R$)":"388 936"}
+                    },
+                    {
+                        "Milho(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":"56 000",
+                            "Área colhida (ha)":"56 000",
+                            "Quantidade produzida (t)":"405 090",
+                            "Rendimento médio (kg/ha)":"7 234",
+                            "Valor (1 000 R$)":"164 251"
+                        },
+                        "Trigo(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":"35 000",
+                            "Área colhida (ha)":"35 000",
+                            "Quantidade produzida (t)":"90 065",
+                            "Rendimento médio (kg/ha)":"2 573",
+                            "Valor (1 000 R$)":"56 020"
+                        },
+                        "Feijão(em grão) ":{
+                            "Área plantada ou destinada à colheita (ha)":"1 700",
+                            "Área colhida (ha)":"1 700",
+                            "Quantidade produzida (t)":"3 050",
+                            "Rendimento médio (kg/ha)":"1 794",
+                            "Valor (1 000 R$)":"5 949"}
+                    },
+                    {
+                        "Mandioca":{
+                            "Área plantada ou destinada à colheita (ha)":" 600",
+                            "Área colhida (ha)":" 600",
+                            "Quantidade produzida (t)":"14 400",
+                            "Rendimento médio (kg/ha)":"24 000",
+                            "Valor (1 000 R$)":"2 520"}
+                    },
+                    {
+                        "Erva-mate(folha verde)":{
+                            "Área plantada ou destinada à colheita (ha)":" 330",
+                            "Área colhida (ha)":" 330",
+                            "Quantidade produzida (t)":"1 490",
+                            "Rendimento médio (kg/ha)":"4 515",
+                            "Valor (1 000 R$)":"1 542"}
+                    },
+                    {
+                        "Aveia(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":" 250",
+                            "Área colhida (ha)":" 250",
+                            "Quantidade produzida (t)":" 867",
+                            "Rendimento médio (kg/ha)":"3 468",
+                            "Valor (1 000 R$)":" 257"}
+                    },
+                    {
+                        "Batata-doce ":{
+                            "Área plantada ou destinada à colheita (ha)":" 29",
+                            "Área colhida (ha)":" 29",
+                            "Quantidade produzida (t)":" 560",
+                            "Rendimento médio (kg/ha)":"19 310",
+                            "Valor (1 000 R$)":" 616"}
+                    },
+                    {
+                        "Laranja ":{
+                            "Área plantada ou destinada à colheita (ha)":" 23",
+                            "Área colhida (ha)":" 23",
+                            "Quantidade produzida (t)":" 238",
+                            "Rendimento médio (kg/ha)":"10 348",
+                            "Valor (1 000 R$)":" 81"}
+                    },
+                    {
+                        "Tangerina ":{
+                            "Área plantada ou destinada à colheita (ha)":" 21",
+                            "Área colhida (ha)":" 21",
+                            "Quantidade produzida (t)":" 380",
+                            "Rendimento médio (kg/ha)":"18 095",
+                            "Valor (1 000 R$)":" 270"}
+                    },
+                    {
+                        "Melancia":{
+                            "Área plantada ou destinada à colheita (ha)":" 18",
+                            "Área colhida (ha)":" 18",
+                            "Quantidade produzida (t)":" 460",
+                            "Rendimento médio (kg/ha)":"25 556",
+                            "Valor (1 000 R$)":" 322"}
+                    },
+                    {
+                        "Uva ":{
+                            "Área plantada ou destinada à colheita (ha)":" 17",
+                            "Área colhida (ha)":" 17",
+                            "Quantidade produzida (t)":" 150",
+                            "Rendimento médio (kg/ha)":"8 824",
+                            "Valor (1 000 R$)":" 582"}
+                    },
+                    {
+                        "Arroz(em casca) ":{
+                            "Área plantada ou destinada à colheita (ha)":" 15",
+                            "Área colhida (ha)":" 15",
+                            "Quantidade produzida (t)":" 30",
+                            "Rendimento médio (kg/ha)":"2 000",
+                            "Valor (1 000 R$)":" 25"}
+                    },
+                    {
+                        "Cana-de-açúcar":{
+                            "Área plantada ou destinada à colheita (ha)":" 12",
+                            "Área colhida (ha)":" 12",
+                            "Quantidade produzida (t)":" 720",
+                            "Rendimento médio (kg/ha)":"60 000",
+                            "Valor (1 000 R$)":" 39"}
+                    },
+                    {
+                        "Banana":{
+                            "Área plantada ou destinada à colheita (ha)":" 11",
+                            "Área colhida (ha)":" 11",
+                            "Quantidade produzida (t)":" 275",
+                            "Rendimento médio (kg/ha)":"25 000",
+                            "Valor (1 000 R$)":" 143"}
+                    },
+                    {
+                        "Maçã":{
+                            "Área plantada ou destinada à colheita (ha)":" 7",
+                            "Área colhida (ha)":" 7",
+                            "Quantidade produzida (t)":" 21",
+                            "Rendimento médio (kg/ha)":"3 000",
+                            "Valor (1 000 R$)":" 38"}
+                    },
+                    {
+                        "Amendoim(em casca)":{
+                            "Área plantada ou destinada à colheita (ha)":" 6",
+                            "Área colhida (ha)":" 6",
+                            "Quantidade produzida (t)":" 12",
+                            "Rendimento médio (kg/ha)":"2 000",
+                            "Valor (1 000 R$)":" 20"}
+                    },
+                    {
+                        "Manga ":{
+                            "Área plantada ou destinada à colheita (ha)":" 4",
+                            "Área colhida (ha)":" 4",
+                            "Quantidade produzida (t)":" 98",
+                            "Rendimento médio (kg/ha)":"24 500",
+                            "Valor (1 000 R$)":" 178"}
+                    },
+                    {
+                        "Abacate":{
+                            "Área plantada ou destinada à colheita (ha)":" 3",
+                            "Área colhida (ha)":" 3",
+                            "Quantidade produzida (t)":" 77",
+                            "Rendimento médio (kg/ha)":"25 667",
+                            "Valor (1 000 R$)":" 119"}
+                    },
+                    {
+                        "Alho":{
+                            "Área plantada ou destinada à colheita (ha)":" 3",
+                            "Área colhida (ha)":" 3",
+                            "Quantidade produzida (t)":" 18",
+                            "Rendimento médio (kg/ha)":"6 000",
+                            "Valor (1 000 R$)":" 146"}
+                    },
+                    {
+                        "Limão ":{
+                            "Área plantada ou destinada à colheita (ha)":" 3",
+                            "Área colhida (ha)":" 3",
+                            "Quantidade produzida (t)":" 40",
+                            "Rendimento médio (kg/ha)":"13 333",
+                            "Valor (1 000 R$)":" 67"}
+                    },
+                    {
+                        "Caqui ":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 20",
+                            "Rendimento médio (kg/ha)":"10 000",
+                            "Valor (1 000 R$)":" 28"}
+                    },
+                    {
+                        "Fumo(em folha)":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 4",
+                            "Rendimento médio (kg/ha)":"2 000",
+                            "Valor (1 000 R$)":" 22"}
+                    },
+                    {
+                        "Goiaba":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 17",
+                            "Rendimento médio (kg/ha)":"8 500",
+                            "Valor (1 000 R$)":" 37"}
+                    },
+                    {
+                        "Maracujá":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 14",
+                            "Rendimento médio (kg/ha)":"7 000",
+                            "Valor (1 000 R$)":" 30"}
+                    },
+                    {
+                        "Melão ":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 31",
+                            "Rendimento médio (kg/ha)":"15 500",
+                            "Valor (1 000 R$)":" 78"}
+                    },
+                    {
+                        "Tomate":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 124",
+                            "Rendimento médio (kg/ha)":"62 000",
+                            "Valor (1 000 R$)":" 286"}
+                    },
+                    {
+                        "Ervilha(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":" 1",
+                            "Área colhida (ha)":" 1",
+                            "Quantidade produzida (t)":" 1",
+                            "Rendimento médio (kg/ha)":"1 000",
+                            "Valor (1 000 R$)":" 5"}
+                    },
+                    {
+                        "Figo":{
+                            "Área plantada ou destinada à colheita (ha)":" 1",
+                            "Área colhida (ha)":" 1",
+                            "Quantidade produzida (t)":" 8",
+                            "Rendimento médio (kg/ha)":"8 000",
+                            "Valor (1 000 R$)":" 49"}
+                    },
+                    {
+                        "Pêssego ": {
+                            "Área plantada ou destinada à colheita (ha)":" 1",
+                            "Área colhida (ha)":" 1",
+                            "Quantidade produzida (t)":" 8",
+                            "Rendimento médio (kg/ha)":"8 000",
+                            "Valor (1 000 R$)":" 16"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "Marechal Cândido Rondon":{
+                "principais produtos das lavouras temporárias e permanentes": [
+                    {
+                        "Total": {
+                            "Área plantada ou destinada à colheita (ha)":"61 802",
+                            "Área colhida (ha)":"60 802",
+                            "Quantidade produzida (t)":"...",
+                            "Rendimento médio (kg/ha)":"...",
+                            "Valor (1 000 R$)":"214 006"}
+                    },
+                    {  
+                        "Lavouras Temporárias":{
+                            "Área plantada ou destinada à colheita (ha)":"61 770",
+                            "Área colhida (ha)":"60 770",
+                            "Quantidade produzida (t)":"...",
+                            "Rendimento médio (kg/ha)":"...",
+                            "Valor (1 000 R$)":"213 068"}
+                    },
+                    {                        
+                        "Lavouras Permanentes":{
+                            "Área plantada ou destinada à colheita (ha)":" 32",
+                            "Área colhida (ha)":" 32",
+                            "Quantidade produzida (t)":"...",
+                            "Rendimento médio (kg/ha)":"...",
+                            "Valor (1 000 R$)":" 938"}
+                    },
+                    {                        
+                        "Soja(em grão) ":{
+                            "Área plantada ou destinada à colheita (ha)":"30 500",
+                            "Área colhida (ha)":"30 500",
+                            "Quantidade produzida (t)":"98 490",
+                            "Rendimento médio (kg/ha)":"3 229",
+                            "Valor (1 000 R$)":"101 839"}
+                    },
+                    {                        
+                        "Milho(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":"26 700",
+                            "Área colhida (ha)":"26 700",
+                            "Quantidade produzida (t)":"132 090",
+                            "Rendimento médio (kg/ha)":"4 947",
+                            "Valor (1 000 R$)":"69 833"}
+                    },
+                    {                        
+                        "Mandioca":{
+                            "Área plantada ou destinada à colheita (ha)":"3 000",
+                            "Área colhida (ha)":"2 000",
+                            "Quantidade produzida (t)":"80 000",
+                            "Rendimento médio (kg/ha)":"40 000",
+                            "Valor (1 000 R$)":"36 000"}
+                    },
+                    {                        
+                        "Trigo(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":"1 000",
+                            "Área colhida (ha)":"1 000",
+                            "Quantidade produzida (t)":"2 250",
+                            "Rendimento médio (kg/ha)":"2 250",
+                            "Valor (1 000 R$)":"1 463"}
+                    },
+                    {                        
+                        "Fumo(em folha)":{
+                            "Área plantada ou destinada à colheita (ha)":" 232",
+                            "Área colhida (ha)":" 232",
+                            "Quantidade produzida (t)":" 519",
+                            "Rendimento médio (kg/ha)":"2 237",
+                            "Valor (1 000 R$)":"2 595"}
+                    },
+                    {                        
+                        "Cana-de-açúcar":{
+                            "Área plantada ou destinada à colheita (ha)":" 200",
+                            "Área colhida (ha)":" 200",
+                            "Quantidade produzida (t)":"12 000",
+                            "Rendimento médio (kg/ha)":"60 000",
+                            "Valor (1 000 R$)":" 840"}
+                    },
+                    {                        
+                        "Aveia(em grão)":{
+                            "Área plantada ou destinada à colheita (ha)":" 100",
+                            "Área colhida (ha)":" 100",
+                            "Quantidade produzida (t)":" 200",
+                            "Rendimento médio (kg/ha)":"2 000",
+                            "Valor (1 000 R$)":" 110"}
+                    },
+                    {                        
+                        "Feijão(em grão) ":{
+                            "Área plantada ou destinada à colheita (ha)":" 15",
+                            "Área colhida (ha)":" 15",
+                            "Quantidade produzida (t)":" 23",
+                            "Rendimento médio (kg/ha)":"1 533",
+                            "Valor (1 000 R$)":" 76"}
+                    },
+                    {                        
+                        "Melancia":{
+                            "Área plantada ou destinada à colheita (ha)":" 13",
+                            "Área colhida (ha)":" 13",
+                            "Quantidade produzida (t)":" 286",
+                            "Rendimento médio (kg/ha)":"22 000",
+                            "Valor (1 000 R$)":" 257"}
+                    },
+                    {                        
+                        "Uva ":{
+                            "Área plantada ou destinada à colheita (ha)":" 12",
+                            "Área colhida (ha)":" 12",
+                            "Quantidade produzida (t)":" 170",
+                            "Rendimento médio (kg/ha)":"14 167",
+                            "Valor (1 000 R$)":" 459"}
+                    },
+                    {                        
+                        "Amendoim(em casca)":{
+                            "Área plantada ou destinada à colheita (ha)":" 8",
+                            "Área colhida (ha)":" 8",
+                            "Quantidade produzida (t)":" 16",
+                            "Rendimento médio (kg/ha)":"2 000",
+                            "Valor (1 000 R$)":" 19"}
+                    },
+                    {                        
+                        "Abacate":{
+                            "Área plantada ou destinada à colheita (ha)":" 4",
+                            "Área colhida (ha)":" 4",
+                            "Quantidade produzida (t)":" 120",
+                            "Rendimento médio (kg/ha)":"30 000",
+                            "Valor (1 000 R$)":" 180"}
+                    },
+                    {                        
+                        "Goiaba":{
+                            "Área plantada ou destinada à colheita (ha)":" 3",
+                            "Área colhida (ha)":" 3",
+                            "Quantidade produzida (t)":" 24",
+                            "Rendimento médio (kg/ha)":"8 000",
+                            "Valor (1 000 R$)":" 70"}
+                    },
+                    {                        
+                        "Limão ":{
+                            "Área plantada ou destinada à colheita (ha)":" 3",
+                            "Área colhida (ha)":" 3",
+                            "Quantidade produzida (t)":" 24",
+                            "Rendimento médio (kg/ha)":"8 000",
+                            "Valor (1 000 R$)":" 29"}
+                    },
+                    {                        
+                        "Tangerina ":{
+                            "Área plantada ou destinada à colheita (ha)":" 3",
+                            "Área colhida (ha)":" 3",
+                            "Quantidade produzida (t)":" 27",
+                            "Rendimento médio (kg/ha)":"9 000",
+                            "Valor (1 000 R$)":" 32"}
+                    },
+                    {                        
+                        "Maçã":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 22",
+                            "Rendimento médio (kg/ha)":"11 000",
+                            "Valor (1 000 R$)":" 61"}
+                    },
+                    {                        
+                        "Manga ":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 10",
+                            "Rendimento médio (kg/ha)":"5 000",
+                            "Valor (1 000 R$)":" 28"}
+                    },
+                    {                        
+                        "Melão ":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 20",
+                            "Rendimento médio (kg/ha)":"10 000",
+                            "Valor (1 000 R$)":" 36"}
+                    },
+                    {                        
+                        "Pêssego ":{
+                            "Área plantada ou destinada à colheita (ha)":" 2",
+                            "Área colhida (ha)":" 2",
+                            "Quantidade produzida (t)":" 18",
+                            "Rendimento médio (kg/ha)":"9 000",
+                            "Valor (1 000 R$)":" 56"}
+                    },
+                    {                        
+                        "Figo":{
+                            "Área plantada ou destinada à colheita (ha)":" 1",
+                            "Área colhida (ha)":" 1",
+                            "Quantidade produzida (t)":" 9",
+                            "Rendimento médio (kg/ha)":"9 000",
+                            "Valor (1 000 R$)":" 23"
+                        }
+                    }
+                ]
+
+            }
+        },
+        {
+            "Palotina":{
+                "principais produtos das lavouras temporárias e permanentes":[
+                    {
+                        "Total":{
+                        "Área plantada ou destinada à colheita (ha)":"95 810",
+                        "Área colhida (ha)":"95 810",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"366 035"}
+                    },
+                    {    
+                        "Lavouras Temporárias":{
+                        "Área plantada ou destinada à colheita (ha)":"95 800",
+                        "Área colhida (ha)":"95 800",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"365 474"}
+                    },    
+                    {    
+                        "Lavouras Permanentes":{
+                        "Área plantada ou destinada à colheita (ha)":" 10",
+                        "Área colhida (ha)":" 10",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":" 561"}
+                    },    
+                    {    
+                        "Soja(em grão) ":{
+                        "Área plantada ou destinada à colheita (ha)":"47 300",
+                        "Área colhida (ha)":"47 300",
+                        "Quantidade produzida (t)":"167 030",
+                        "Rendimento médio (kg/ha)":"3 531",
+                        "Valor (1 000 R$)":"182 390"}
+                    },    
+                    {    
+                        "Milho(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":"46 800",
+                        "Área colhida (ha)":"46 800",
+                        "Quantidade produzida (t)":"306 600",
+                        "Rendimento médio (kg/ha)":"6 551",
+                        "Valor (1 000 R$)":"178 269"}
+                    },    
+                    {    
+                        "Trigo(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":"1 500",
+                        "Área colhida (ha)":"1 500",
+                        "Quantidade produzida (t)":"4 500",
+                        "Rendimento médio (kg/ha)":"3 000",
+                        "Valor (1 000 R$)":"2 835"}
+                    },    
+                    {    
+                        "Mandioca":{
+                        "Área plantada ou destinada à colheita (ha)":" 200",
+                        "Área colhida (ha)":" 200",
+                        "Quantidade produzida (t)":"6 000",
+                        "Rendimento médio (kg/ha)":"30 000",
+                        "Valor (1 000 R$)":"1 980"}
+                    },    
+                    {    
+                        "Uva ":{
+                        "Área plantada ou destinada à colheita (ha)":" 8",
+                        "Área colhida (ha)":" 8",
+                        "Quantidade produzida (t)":" 104",
+                        "Rendimento médio (kg/ha)":"13 000",
+                        "Valor (1 000 R$)":" 458"}
+                    },    
+                    {    
+                        "Abacate":{
+                        "Área plantada ou destinada à colheita (ha)":" 2",
+                        "Área colhida (ha)":" 2",
+                        "Quantidade produzida (t)":" 60",
+                        "Rendimento médio (kg/ha)":"30 000",
+                        "Valor (1 000 R$)":" 103"}
+                    },    
+                    {    
+                        "Paraíso do Norte":{
+                        "Área plantada ou destinada à colheita (ha)":"14 220",
+                        "Área colhida (ha)":"14 220",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"50 622"}
+                    },    
+                    {    
+                        "Lavouras Temporárias":{
+                        "Área plantada ou destinada à colheita (ha)":"14 133",
+                        "Área colhida (ha)":"14 133",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"49 851"}
+                    },    
+                    {    
+                        "Lavouras Permanentes":{
+                        "Área plantada ou destinada à colheita (ha)":" 87",
+                        "Área colhida (ha)":" 87",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":" 771"}
+                    },    
+                    {    
+                        "Cana-de-açúcar":{
+                        "Área plantada ou destinada à colheita (ha)":"8 057",
+                        "Área colhida (ha)":"8 057",
+                        "Quantidade produzida (t)":"576 332",
+                        "Rendimento médio (kg/ha)":"71 532",
+                        "Valor (1 000 R$)":"31 669"}
+                    },    
+                    {    
+                        "Soja(em grão) ":{
+                        "Área plantada ou destinada à colheita (ha)":"3 595",
+                        "Área colhida (ha)":"3 595",
+                        "Quantidade produzida (t)":"10 156",
+                        "Rendimento médio (kg/ha)":"2 825",
+                        "Valor (1 000 R$)":"11 679"}
+                    },    
+                    {    
+                        "Milho(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":"2 377",
+                        "Área colhida (ha)":"2 377",
+                        "Quantidade produzida (t)":"9 053",
+                        "Rendimento médio (kg/ha)":"3 809",
+                        "Valor (1 000 R$)":"5 261"}
+                    },    
+                    {    
+                        "Mandioca":{
+                        "Área plantada ou destinada à colheita (ha)":" 83",
+                        "Área colhida (ha)":" 83",
+                        "Quantidade produzida (t)":"2 445",
+                        "Rendimento médio (kg/ha)":"29 458",
+                        "Valor (1 000 R$)":" 895"}
+                    },    
+                    {    
+                        "Laranja ":{
+                        "Área plantada ou destinada à colheita (ha)":" 60",
+                        "Área colhida (ha)":" 60",
+                        "Quantidade produzida (t)":"2 400",
+                        "Rendimento médio (kg/ha)":"40 000",
+                        "Valor (1 000 R$)":" 600"}
+                    },    
+                    {    
+                        "Borracha(látex coagulado) ":{
+                        "Área plantada ou destinada à colheita (ha)":" 12",
+                        "Área colhida (ha)":" 12",
+                        "Quantidade produzida (t)":" 18",
+                        "Rendimento médio (kg/ha)":"1 500",
+                        "Valor (1 000 R$)":" 35"}
+                    },    
+                    {    
+                        "Café(beneficiado) ":{
+                        "Área plantada ou destinada à colheita (ha)":" 10",
+                        "Área colhida (ha)":" 10",
+                        "Quantidade produzida (t)":" 8",
+                        "Rendimento médio (kg/ha)":" 800",
+                        "Valor (1 000 R$)":" 49"}
+                    },    
+                    {    
+                        "Abacaxi ":{
+                        "Área plantada ou destinada à colheita (ha)":" 7",
+                        "Área colhida (ha)":" 7",
+                        "Quantidade produzida (t)":" 175",
+                        "Rendimento médio (kg/ha)":"25 000",
+                        "Valor (1 000 R$)":" 245"}
+                    },    
+                    {    
+                        "Arroz(em casca) ":{
+                        "Área plantada ou destinada à colheita (ha)":" 5",
+                        "Área colhida (ha)":" 5",
+                        "Quantidade produzida (t)":" 19",
+                        "Rendimento médio (kg/ha)":"3 800",
+                        "Valor (1 000 R$)":" 17"}
+                    },    
+                    {    
+                        "Melancia":{
+                        "Área plantada ou destinada à colheita (ha)":" 4",
+                        "Área colhida (ha)":" 4",
+                        "Quantidade produzida (t)":" 60",
+                        "Rendimento médio (kg/ha)":"15 000",
+                        "Valor (1 000 R$)":" 45"}
+                    },    
+                    {    
+                        "Amendoim(em casca)":{
+                        "Área plantada ou destinada à colheita (ha)":" 3",
+                        "Área colhida (ha)":" 3",
+                        "Quantidade produzida (t)":" 8",
+                        "Rendimento médio (kg/ha)":"2 667",
+                        "Valor (1 000 R$)":" 11"}
+                    },    
+                    {    
+                        "Batata-doce ":{
+                        "Área plantada ou destinada à colheita (ha)":" 2",
+                        "Área colhida (ha)":" 2",
+                        "Quantidade produzida (t)":" 39",
+                        "Rendimento médio (kg/ha)":"19 500",
+                        "Valor (1 000 R$)":" 29"}
+                    },    
+                    {    
+                        "Abacate":{
+                        "Área plantada ou destinada à colheita (ha)":" 1",
+                        "Área colhida (ha)":" 1",
+                        "Quantidade produzida (t)":" 14",
+                        "Rendimento médio (kg/ha)":"14 000",
+                        "Valor (1 000 R$)":" 11"}
+                    },    
+                    {    
+                        "Banana":{
+                        "Área plantada ou destinada à colheita (ha)":" 1",
+                        "Área colhida (ha)":" 1",
+                        "Quantidade produzida (t)":" 30",
+                        "Rendimento médio (kg/ha)":"30 000",
+                        "Valor (1 000 R$)":" 27"}
+                    },    
+                    {    
+                        "Limão ":{
+                        "Área plantada ou destinada à colheita (ha)":" 1",
+                        "Área colhida (ha)":" 1",
+                        "Quantidade produzida (t)":" 15",
+                        "Rendimento médio (kg/ha)":"15 000",
+                        "Valor (1 000 R$)":" 11"}
+                    },    
+                    {    
+                        "Maracujá":{
+                        "Área plantada ou destinada à colheita (ha)":" 1",
+                        "Área colhida (ha)":" 1",
+                        "Quantidade produzida (t)":" 13",
+                        "Rendimento médio (kg/ha)":"13 000",
+                        "Valor (1 000 R$)":" 18"}
+                    },    
+                    {      
+                        "Uva ":{
+                        "Área plantada ou destinada à colheita (ha)":" 1",
+                        "Área colhida (ha)":" 1",
+                        "Quantidade produzida (t)":" 8",
+                        "Rendimento médio (kg/ha)":"8 000",
+                        "Valor (1 000 R$)":" 20"}
+                    }
+                ] 
+            }            
+        },
+        {    
+            
+            "São Pedro do Iguaçu":{
+                "principais produtos das lavouras temporárias e permanentes":[
+                    {
+                        "Total":{
+                        "Área plantada ou destinada à colheita (ha)":"23 500",
+                        "Área colhida (ha)":"23 500",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"75 178"}
+                    },
+                    {
+                        "Lavouras Temporárias":{
+                        "Área plantada ou destinada à colheita (ha)":"23 485",
+                        "Área colhida (ha)":"23 485",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"74 735"}
+                    },
+                    {
+                        "Lavouras Permanentes":{
+                        "Área plantada ou destinada à colheita (ha)":" 15",
+                        "Área colhida (ha)":" 15",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":" 443"}
+                    },
+                    {
+                        "Soja(em grão) ":{
+                        "Área plantada ou destinada à colheita (ha)":"14 080",
+                        "Área colhida (ha)":"14 080",
+                        "Quantidade produzida (t)":"47 060",
+                        "Rendimento médio (kg/ha)":"3 342",
+                        "Valor (1 000 R$)":"48 639"}
+                    },
+                    {
+                        "Milho(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":"6 400",
+                        "Área colhida (ha)":"6 400",
+                        "Quantidade produzida (t)":"33 820",
+                        "Rendimento médio (kg/ha)":"5 284",
+                        "Valor (1 000 R$)":"17 700"}
+                    },
+                    {
+                        "Trigo(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":"2 500",
+                        "Área colhida (ha)":"2 500",
+                        "Quantidade produzida (t)":"8 000",
+                        "Rendimento médio (kg/ha)":"3 200",
+                        "Valor (1 000 R$)":"5 200"}
+                    },
+                    {
+                        "Aveia(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":" 200",
+                        "Área colhida (ha)":" 200",
+                        "Quantidade produzida (t)":" 400",
+                        "Rendimento médio (kg/ha)":"2 000",
+                        "Valor (1 000 R$)":" 220"}
+                    },
+                    {
+                        "Mandioca":{
+                        "Área plantada ou destinada à colheita (ha)":" 150",
+                        "Área colhida (ha)":" 150",
+                        "Quantidade produzida (t)":"4 500",
+                        "Rendimento médio (kg/ha)":"30 000",
+                        "Valor (1 000 R$)":"2 025"}
+                    },
+                    {
+                        "Cana-de-açúcar":{
+                        "Área plantada ou destinada à colheita (ha)":" 75",
+                        "Área colhida (ha)":" 75",
+                        "Quantidade produzida (t)":"5 250",
+                        "Rendimento médio (kg/ha)":"70 000",
+                        "Valor (1 000 R$)":" 420"}
+                    },
+                    {
+                        "Fumo(em folha)":{
+                        "Área plantada ou destinada à colheita (ha)":" 53",
+                        "Área colhida (ha)":" 53",
+                        "Quantidade produzida (t)":" 90",
+                        "Rendimento médio (kg/ha)":"1 698",
+                        "Valor (1 000 R$)":" 450"}
+                    },
+                    {
+                        "Amendoim(em casca)":{
+                        "Área plantada ou destinada à colheita (ha)":" 10",
+                        "Área colhida (ha)":" 10",
+                        "Quantidade produzida (t)":" 20",
+                        "Rendimento médio (kg/ha)":"2 000",
+                        "Valor (1 000 R$)":" 30"}
+                    },
+                    {
+                        "Arroz(em casca) ":{
+                        "Área plantada ou destinada à colheita (ha)":" 10",
+                        "Área colhida (ha)":" 10",
+                        "Quantidade produzida (t)":" 20",
+                        "Rendimento médio (kg/ha)":"2 000",
+                        "Valor (1 000 R$)":" 19"}
+                    },
+                    {
+                        "Feijão(em grão) ":{
+                        "Área plantada ou destinada à colheita (ha)":" 5",
+                        "Área colhida (ha)":" 5",
+                        "Quantidade produzida (t)":" 6",
+                        "Rendimento médio (kg/ha)":"1 200",
+                        "Valor (1 000 R$)":" 20"}
+                    },
+                    {
+                        "Uva ":{
+                        "Área plantada ou destinada à colheita (ha)":" 5",
+                        "Área colhida (ha)":" 5",
+                        "Quantidade produzida (t)":" 73",
+                        "Rendimento médio (kg/ha)":"14 600",
+                        "Valor (1 000 R$)":" 175"}
+                    },
+                    {
+                        "Laranja ":{
+                        "Área plantada ou destinada à colheita (ha)":" 3",
+                        "Área colhida (ha)":" 3",
+                        "Quantidade produzida (t)":" 34",
+                        "Rendimento médio (kg/ha)":"11 333",
+                        "Valor (1 000 R$)":" 51"}
+                    },
+                    {
+                        "Manga ":{
+                        "Área plantada ou destinada à colheita (ha)":" 3",
+                        "Área colhida (ha)":" 3",
+                        "Quantidade produzida (t)":" 39",
+                        "Rendimento médio (kg/ha)":"13 000",
+                        "Valor (1 000 R$)":" 109"}
+                    },
+                    {
+                    "Alho":{
+                        "Área plantada ou destinada à colheita (ha)":" 2",
+                        "Área colhida (ha)":" 2",
+                        "Quantidade produzida (t)":" 4",
+                        "Rendimento médio (kg/ha)":"2 000",
+                        "Valor (1 000 R$)":" 12"}
+                    },
+                    {
+                        "Café(beneficiado) ":{
+                        "Área plantada ou destinada à colheita (ha)":" 2",
+                        "Área colhida (ha)":" 2",
+                        "Quantidade produzida (t)":" 4",
+                        "Rendimento médio (kg/ha)":"2 000",
+                        "Valor (1 000 R$)":" 26"}
+                    },
+                    {
+                        "Abacate":{
+                        "Área plantada ou destinada à colheita (ha)":" 1",
+                        "Área colhida (ha)":" 1",
+                        "Quantidade produzida (t)":" 45",
+                        "Rendimento médio (kg/ha)":"45 000",
+                        "Valor (1 000 R$)":" 68"}
+                    },
+                    {
+                        "Limão ":{
+                        "Área plantada ou destinada à colheita (ha)":" 1",
+                        "Área colhida (ha)":" 1",
+                        "Quantidade produzida (t)":" 12",
+                        "Rendimento médio (kg/ha)":"12 000",
+                        "Valor (1 000 R$)":" 14"}
+                    }
+                ]
+            }
+        },
+        {
+            "Ouro Verde do Oeste":{
+                "principais produtos das lavouras temporárias e permanentes":[
+                    {
+                        "Total":{
+                        "Área plantada ou destinada à colheita (ha)":"23 042",
+                        "Área colhida (ha)":"23 042",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"74 537"}
+                    },
+                    {
+                        "Lavouras Temporárias":{
+                        "Área plantada ou destinada à colheita (ha)":"23 034",
+                        "Área colhida (ha)":"23 034",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":"74 212"}
+                    },
+                    {
+                        "Lavouras Permanentes":{
+                        "Área plantada ou destinada à colheita (ha)":" 8",
+                        "Área colhida (ha)":" 8",
+                        "Quantidade produzida (t)":"...",
+                        "Rendimento médio (kg/ha)":"...",
+                        "Valor (1 000 R$)":" 325"}
+                    },
+                    {
+                        "Soja(em grão) ":{
+                        "Área plantada ou destinada à colheita (ha)":"12 780",
+                        "Área colhida (ha)":"12 780",
+                        "Quantidade produzida (t)":"42 587",
+                        "Rendimento médio (kg/ha)":"3 332",
+                        "Valor (1 000 R$)":"44 012"}
+                    },
+                    {
+                        "Milho(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":"8 650",
+                        "Área colhida (ha)":"8 650",
+                        "Quantidade produzida (t)":"50 457",
+                        "Rendimento médio (kg/ha)":"5 833",
+                        "Valor (1 000 R$)":"26 300"}
+                    },
+                    {
+                        "Trigo(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":"1 450",
+                        "Área colhida (ha)":"1 450",
+                        "Quantidade produzida (t)":"4 930",
+                        "Rendimento médio (kg/ha)":"3 400",
+                        "Valor (1 000 R$)":"3 205"}
+                    },
+                    {
+                        "Aveia(em grão)":{
+                        "Área plantada ou destinada à colheita (ha)":" 50",
+                        "Área colhida (ha)":" 50",
+                        "Quantidade produzida (t)":" 100",
+                        "Rendimento médio (kg/ha)":"2 000",
+                        "Valor (1 000 R$)":" 40"}
+                    },
+                    {
+                        "Feijão(em grão) ":{
+                        "Área plantada ou destinada à colheita (ha)":" 48",
+                        "Área colhida (ha)":" 48",
+                        "Quantidade produzida (t)":" 86",
+                        "Rendimento médio (kg/ha)":"1 792",
+                        "Valor (1 000 R$)":" 258"}
+                    },
+                    {
+                        "Fumo(em folha)":{
+                        "Área plantada ou destinada à colheita (ha)":" 25",
+                        "Área colhida (ha)":" 25",
+                        "Quantidade produzida (t)":" 32",
+                        "Rendimento médio (kg/ha)":"1 280",
+                        "Valor (1 000 R$)":" 160"}
+                    },
+                    {
+                        "Mandioca":{
+                        "Área plantada ou destinada à colheita (ha)":" 15",
+                        "Área colhida (ha)":" 15",
+                        "Quantidade produzida (t)":" 375",
+                        "Rendimento médio (kg/ha)":"25 000",
+                        "Valor (1 000 R$)":" 169"}
+                    },
+                    {
+                        "Cana-de-açúcar":{
+                        "Área plantada ou destinada à colheita (ha)":" 13",
+                        "Área colhida (ha)":" 13",
+                        "Quantidade produzida (t)":" 780",
+                        "Rendimento médio (kg/ha)":"60 000",
+                        "Valor (1 000 R$)":" 62"}
+                    },
+                    {
+                        "Uva ":{
+                        "Área plantada ou destinada à colheita (ha)":" 8",
+                        "Área colhida (ha)":" 8",
+                        "Quantidade produzida (t)":" 118",
+                        "Rendimento médio (kg/ha)":"14 750",
+                        "Valor (1 000 R$)":" 325"}
+                    },
+                    {
+                        "Amendoim(em casca)":{
+                        "Área plantada ou destinada à colheita (ha)":" 3",
+                        "Área colhida (ha)":" 3",
+                        "Quantidade produzida (t)":" 6",
+                        "Rendimento médio (kg/ha)":"2 000",
+                        "Valor (1 000 R$)":" 6"}
+                    }
+                ]    
+            }
+        }           
+    ]
+}
